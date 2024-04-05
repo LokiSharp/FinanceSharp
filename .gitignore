@@ -1,0 +1,10 @@
+# .NET Core build folders
+bin/
+obj/
+
+### IDE ###
+### JetBrains ###
+.idea/*
+
+### VisualStudioCode ###
+.vscode/*
